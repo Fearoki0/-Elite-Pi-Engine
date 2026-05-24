@@ -28,4 +28,4 @@ This project is licensed under a **Custom Non-Commercial Attribution License**.
 - **Ownership:** You cannot claim ownership of the core logic or engine.
 - **Non-Commercial:** You are strictly prohibited from selling this software, incorporating it into paid applications, or using it for direct financial gain. It must remain 100% free to the public.
 
-See the full [LICENSE](LICENSE file for complete legal details.
+See the full [LICENSE](LICENSE) file for complete legal details.
