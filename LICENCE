@@ -1,21 +1,19 @@
-MIT License
+CUSTOM NON-COMMERCIAL ATTRIBUTION LICENSE
 
 Copyright (c) 2026 Fearoki0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+By using, modifying, or distributing this software, you agree to the following strict terms:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. ATTRIBUTION (CREDIT ORIGINAL AUTHOR):
+Any distribution of this software, or any modified versions (derivatives) of it, must prominently display the copyright notice above and explicitly credit "Fearoki0" as the original creator of the engine.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. OWNERSHIP (NO FALSE CLAIMS):
+You may not claim ownership of this software. The fundamental engine and logic remain strictly the intellectual property of Fearoki0. 
+
+3. NON-COMMERCIAL EXPLOITATION (NO SELLING):
+You are strictly prohibited from selling this software, charging for access to it, using it inside a paid application, or utilizing it for any commercial purposes or direct financial gain. This engine and its derivatives must remain 100% free to the public.
+
+4. RIGHT TO MODIFY AND DISTRIBUTE:
+You are permitted to modify the source code and distribute your modified variations, provided that your distribution complies fully with Sections 1, 2, and 3 (it must be free, non-commercial, and preserve credit to Fearoki0).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
